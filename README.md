@@ -1,10 +1,1 @@
-- 👋 Hi, I’m Jalenzzz
-- 👀 I’m interested in basketball
-- 🌱 I’m currently learning software engineering
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy playing video games
-
-<!---
-Jalenzzz/Jalenzzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://media.dev.to/cdn-cgi/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fi%2Facmabizvxcllsmvj1lop.gif

@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **being a fullstack dev**
 - 🌱 I’m currently learning **Python and SQL**
 - ⚡ A fun fact about me is **I love dogs!!**
-
-<h3 align="left">Languages and Tools:</h3>
+-----
+<h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -32,14 +32,16 @@
   </a>
 </p>
 
+-----
+ 
+<h2 align="left">My Stats</h2>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalenzzz&show_icons=true&locale=en&layout=compact" alt="jalenzzz" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalenzzz&show_icons=true&locale=en&layout=compact&theme=dark" alt="jalenzzz"  />
+</p>
+<p>&nbsp; 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jalenzzz&show_icons=true&theme=dark" alt="jalenzzz" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jalenzzz&show_icons=true&locale=en" alt="jalenzzz" />
-</p>
-
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalenzzz" alt="jalenzzz" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalenzzz&theme=dark" alt="jalenzzz" />
 </p>

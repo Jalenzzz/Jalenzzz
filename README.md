@@ -1,6 +1,10 @@
-<p align = "center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=888282&random=false&width=700&height=45&lines=Moyai+is+cool+%F0%9F%97%BF%F0%9F%97%BF%F0%9F%97%BF" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=888282&center=true&vCenter=true&random=false&width=700&height=45&lines=Moyai+is+cool+%F0%9F%97%BF%F0%9F%97%BF%F0%9F%97%BF" alt="Typing SVG" alt="Typing SVG" />
+  </a>
 </p>
+
+
 
 <h1 align="center">Hi 👋, I'm Jalenzzz</h1>
 <h3 align="center">An aspiring fullstack developer.</h3>

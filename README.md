@@ -15,7 +15,6 @@
 </p>
 
 - 🔭 I’m currently working on **being a fullstack dev**
-- 🌱 I’m currently learning **Python and SQL**
 - ⚡ A fun fact about me is **I love dogs!!**
 -----
 <h3 align="left">Languages and Tools</h3>

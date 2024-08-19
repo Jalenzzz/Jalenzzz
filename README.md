@@ -18,7 +18,7 @@
 - ⚡ A fun fact about me is **I love dogs!!**
 -----
 <h3 align="left">Languages and Tools</h3>
-<p align="left"> <a href="https://github.com/Jalenzzz"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,postgres,postman,sqlite,supabase,flask&perline=8&theme=dark"> </a> </p>
+<p align="left"> <a href="https://github.com/Jalenzzz"><img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,postgres,mysql,postman,sqlite,supabase,flask,git,github,notion,npm,&perline=8&theme=dark"> </a> </p>
 
 -----
  

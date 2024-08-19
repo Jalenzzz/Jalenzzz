@@ -7,14 +7,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Jalenzzz</h1>
-<h3 align="center">An aspiring fullstack developer.</h3>
+<h3 align="center">Fullstack developer</h3>
 <img align="right" alt="Moyai" width="370" src="https://cdn3.emoji.gg/emojis/1890-moyai-dance.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=jalenzzz&label=Profile%20views&color=0e75b6&style=flat" alt="jalenzzz" />
 </p>
 
-- 🔭 I’m currently working on **being a fullstack dev**
+- 🔭 I’m currently working on **being better**
 - ⚡ A fun fact about me is **I love dogs!!**
 -----
 <h3 align="left">Languages and Tools</h3>

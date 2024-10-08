@@ -6,7 +6,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Jalenzzz</h1>
+<h1 align="center">Hi 👋, I'm Jalen</h1>
 <h3 align="center">Fullstack developer</h3>
 <img align="right" alt="Moyai" width="370" src="https://cdn3.emoji.gg/emojis/1890-moyai-dance.gif">
 

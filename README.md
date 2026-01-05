@@ -27,12 +27,6 @@
 -----
  
 <h2 align="left">My Stats</h2>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jalenzzz&show_icons=true&locale=en&layout=compact&theme=dark" alt="jalenzzz"  />
-</p>
-<p>&nbsp; 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jalenzzz&show_icons=true&theme=dark" alt="jalenzzz" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jalenzzz&theme=dark" alt="jalenzzz" />

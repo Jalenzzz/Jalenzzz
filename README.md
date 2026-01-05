@@ -14,13 +14,13 @@
   <img src="https://komarev.com/ghpvc/?username=jalenzzz&label=Profile%20views&color=0e75b6&style=flat" alt="jalenzzz" />
 </p>
 
-- 🔭 I’m currently working on **being better**
+- 🔭 I’m currently working on **[Jailbreak Changelogs](https://jailbreakchangelogs.xyz/)**
 - ⚡ A fun fact about me is **I love dogs!!**
 -----
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://github.com/Jalenzzz">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,python,django,postgres,mysql,postman,sqlite,supabase,flask,git,github,notion,npm&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,cloudflare,nodejs,react,python,django,postgres,mysql,postman,sqlite,supabase,flask,git,github,notion,npm&perline=8&theme=dark">
   </a>
 </p>
 

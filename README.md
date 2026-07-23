@@ -20,7 +20,7 @@
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
   <a href="https://github.com/Jalenzzz">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,cloudflare,nodejs,react,python,django,postgres,mysql,postman,sqlite,supabase,flask,git,github,notion,npm&perline=8&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,cloudflare,nodejs,react,postman,git,github,notion,npm,bun&perline=8&theme=dark">
   </a>
 </p>
 
